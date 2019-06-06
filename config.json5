@@ -12,10 +12,10 @@
 	// Settings related to the Boltobserv window
 	"window": {
 		// Always show the window as the top application
-		"alwaysOnTop": false,
+		"alwaysOnTop": true,
 
 		// Make the background of the window transparent
-		"transparent": false,
+		"transparent": true,
 
 		// Will disable GPU rendering, helps capture the window in programs like OBS
 		"disableGpu": false,
@@ -61,7 +61,7 @@
 	// Settings for automatically zooming in on alive players on the map
 	"autozoom": {
 		// Enable or disable autozoom
-		"enable": false,
+		"enable": true,
 
 		// Frames to smooth out zoom movement
 		"smoothing": 32,
