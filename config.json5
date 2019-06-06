@@ -15,10 +15,10 @@
 		"alwaysOnTop": true,
 
 		// Make the background of the window transparent
-		"transparent": true,
+		"transparent": false,
 
 		// Will disable GPU rendering, helps capture the window in programs like OBS
-		"disableGpu": false,
+		"disableGpu": true,
 
 		// The default shape and position of the window
 		"defaultSize": {
